@@ -1,8 +1,8 @@
 {
-  "name": "v-loader",
-  "version": "0.0.1",
+  "name": "v-loader-helper",
+  "version": "0.0.11",
   "description": "A loading helper for easy to set loading.",
-  "main": "loader/index.js",
+  "main": "src/index.js",
   "script": {
     "test": "echo \"no test\" && exit 1"
   },
