@@ -1,4 +1,4 @@
-<center>v-loader-helper</center>
+<h2 align="center">v-loader-helper</h2>
 
 # Intro
 v-loader-helper is a loading helper for Vue.js, to help you implement loading easily and comfortable.
